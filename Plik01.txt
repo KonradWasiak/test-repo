@@ -4,3 +4,6 @@ Uwaga Zmiena03 - Zmiana07c
 Zmiana04
 Zmiana05
 HOTFIX-001
+ASYSTENT POMOCY
+UPROSZCZENIE INTERFEJSU
+easierApp
