@@ -11,3 +11,4 @@ Zmiana08 a
 Zmiana09A
 Zmiana10
 Zmiana12wClonie
+ZMIANA13
